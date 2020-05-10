@@ -4,3 +4,5 @@ main: cn.mcdawncity.superfood.SuperFood
 api-version: 1.13
 softdepend: [ParrotX, Vault, PlaceholderAPI]
 authors: [Mical]
+commands:
+  superfood:
