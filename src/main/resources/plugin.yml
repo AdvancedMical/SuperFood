@@ -2,7 +2,7 @@ name: SuperFood
 version: @version@
 main: cn.mcdawncity.superfood.SuperFood
 api-version: 1.13
-softdepend: [ParrotX, Vault, PlaceholderAPI]
+softdepend: [ParrotX, Vault]
 authors: [Mical]
 commands:
   superfood:
