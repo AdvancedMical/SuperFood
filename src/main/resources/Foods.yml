@@ -1,0 +1,9 @@
+test:
+  name: 'test'
+  lores: |
+    test
+    test
+  op: true
+  money: 0
+  commands:
+    - 'say hello'

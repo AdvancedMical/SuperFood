@@ -1,0 +1,12 @@
+Plugin:
+  Prefix: "&9&lSuperFood"
+  INFO: "&a>> "
+  WARN: "&e>> "
+  ERROR: "&c>> "
+  Help:
+    - "&b<&6SuperFood命令提示&b>"
+    - "&b->&d/superfood help &a查看指令帮助."
+    - "&b->&d/superfood reload &a重新读取插件配置文件."
+Lang:
+  no-permission-message: "你没有权限这样做."
+  no-money-message: "没有足够的金钱, 执行失败."
